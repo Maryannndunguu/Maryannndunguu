@@ -1,12 +1,12 @@
-# Hi 👋 My name is Osamah Al-Suhaiqi
+# Hi 👋 My name is Maryann Ndungu
 
 ## Enterprise Systems Consultant, Software Engineer & ERP Specialist
 
 An experienced Enterprise Systems Consultant and Automation Engineer specializing in secure application development, core ERP implementations, and data pipelines. Proven track record of optimizing financial visibility and streamlining backend infrastructure through robust scripting, secure role-based authentication, and modern React-based architectures.
 
-* 🌍 I'm based in **Burnaby, BC, Canada**
-* ✉️ You can contact me via [Alsuhaiqiosamah@gmail.com](mailto:Alsuhaiqiosamah@gmail.com)
-* 📞 Phone: +1 (613) 298-6075
+
+* ✉️ You can contact me via [Nmaryann080@gmail.com](mailto:Nmaryann080@gmail.com)
+  
 * 🔒 **Core Focus:** Security-first coding, automated ingestion pipelines, and ERP optimizations.
 
 ---
