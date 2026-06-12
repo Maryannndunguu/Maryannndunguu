@@ -61,7 +61,7 @@ An integrated administrative web application designed to optimize secure data co
 * **Enterprise ERP Consultant & Solutions Engineer** @ *Computer Pride Limited* (May 2025 - Present)
   * Leading end-to-end implementation, data migration, and customization profiles for Sage 200 & 300 ERP environments.
   * Scripting business logic extensions in Python and SQL to eliminate manual financial reconciliation constraints.
-* **IT Systems & Network Specialist (Industrial Attachment)** @ *KASNEB* (Jan 2025 - Apr 2025)
+* **IT Systems & Network Specialist ** @ *KASNEB* (Jan 2025 - Apr 2025)
   * Maintained high-availability core network configurations and infrastructure backups.
   * Resolved real-time hardware, operating system anomalies, and software dependency blockages.
 
